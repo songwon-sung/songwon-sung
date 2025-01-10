@@ -15,3 +15,7 @@
   height="300"
 />
 </a>
+
+<footer>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8fe1ff,25:1e7cdf,50:0090ff,75:3488ff,100:3cb4e0&height=40&section=footer&text=&fontSize=0" width="100%"/>
+</footer>
