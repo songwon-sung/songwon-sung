@@ -19,7 +19,7 @@
     <summary style="cursor: pointer;">About Me</summary>
     <p>
       <span>
-        <a href="[https://www.instagram.com/6unoyunr/](https://front-wonny.tistory.com/)">
+        <a href="https://front-wonny.tistory.com/">
           <img src="https://img.shields.io/badge/Tistory-ff506e?style=plastic&logo=Tistory&logoColor=white"/>
         </a>
     </span>
