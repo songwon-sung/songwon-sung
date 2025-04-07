@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8fe1ff,25:1e7cdf,50:0090ff,75:3488ff,100:3cb4e0&height=200&section=header&text=안녕하세요!%0AFrontEnd%20개발자를%20꿈꾸는%20성송원입니다.&fontSize=30&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0065c7,50:004e9a,100:1c4b8c&height=200&section=header&text=WELCOME&stroke=004ca7&strokeWidth=3&fontSize=50&fontColor=ffffff&fontAlignY=50&animation=twinkling" width="100%"/>
-
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/songwon-sung"
