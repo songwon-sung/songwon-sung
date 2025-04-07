@@ -37,16 +37,6 @@
     </span>
 </div>
 
-<a href="https://github.com/songwon-sung/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songwon-sung&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=171a1f&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a>    
-<a href="https://github.com/songwon-sung/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=songwon-sung&show_icons=true&theme=material-palenight&hide_border=true&bg_color=171a1f&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-</a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=songwon-sung&theme=react-dark&bg_color=171a1f&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-</a>
-
 <footer>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8fe1ff,25:1e7cdf,50:0090ff,75:3488ff,100:3cb4e0&height=40&section=footer&text=&fontSize=0" width="100%"/>
 </footer>
